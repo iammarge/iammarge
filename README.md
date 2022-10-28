@@ -1,6 +1,6 @@
 ### Olá! Eu Sou a Marjorie Santos ✨
 
-- 🌱 Estudando Desenvolvimento Web Front-End na Laboratória
+- 🌱 Estudando Desenvolvimento Web Front-End na <a href="https://www.laboratoria.la/br">Laboratória BR</a>
 - 😄 Pronomes que utilizo: ela/dela
 - ⚡ Fun fact: Amante dos pets, curiosa, amo conhecer coisas novas e sou questionadora por natureza
 

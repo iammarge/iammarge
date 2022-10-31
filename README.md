@@ -2,8 +2,7 @@
 
 - 🌱 Estudando Desenvolvimento Web Front-End na <a href="https://www.laboratoria.la/br">Laboratória BR</a>
 - 😄 Pronomes que utilizo: ela/dela
-- ⚡ Fun fact: Amante dos pets, curiosa, amo conhecer coisas novas e sou questionadora por natureza
-
+- 
 <div align="center">
   <a href="https://github.com/iammarge">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=iammarge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
